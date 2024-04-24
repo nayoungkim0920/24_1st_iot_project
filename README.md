@@ -117,3 +117,6 @@ Raspberry Pi OS (Legacy, 64-bit), YOLOv5, OpenCV, PyTorch, Arduino IDE, MariaDB,
 
 ### PCB 회로도
 <img src="https://github.com/jjang-yu/Smart_Factory_Project/assets/160578079/44bd04c6-526e-4c09-9fe1-fbf386b0a033" width="600" height="400"/>
+
+### 시연영상
+https://youtu.be/jdg1TPM2qg0
